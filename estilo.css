@@ -73,26 +73,6 @@ a:hover{
     font-size: 50px;
 }
 
-#linha2{
-    background-color: black;
-    height: 650px;
-    width: 3px;
-    position: fixed;
-    top: 230px;
-    right: 1118px;
-}
-
-#linha3{
-
-    background-color: gold;
-    height: 650px;
-    width: 3px;
-    position: fixed;
-    top: 230px;
-    right: 1100px;
-
-}
-
 #bloco{
     position: fixed;
     right: 592px;
